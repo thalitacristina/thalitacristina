@@ -1,33 +1,33 @@
-# Olá, eu sou a Thalita! 👋 🇧🇷
+# Hi, I'm Thalita! 👋 🇧🇷
 
-🚀 **Desenvolvedora Front-end em Transição | Estudante de Análise e Desenvolvimento de Sistemas**
+🚀 **Front-end Developer in Transition | Computer Information Systems Student**
 
-Sou uma profissional com sólida trajetória em processos administrativos e de qualidade, agora direcionando minha carreira para o desenvolvimento de software. Atualmente, foco meus estudos na criação de interfaces modernas, funcionais e na resolução de problemas através do código.
+I am a professional with a solid background in administrative and quality processes, now pivoting my career towards software development. Currently, I focus my studies on creating modern, functional interfaces and solving problems through code.
 
 ---
 
-### 💻 Conhecimentos & Tecnologias:
+### 💻 Skills & Technologies:
 
 - **Web Development:** HTML5, CSS3, JavaScript (ES6+).
-- **Frameworks & Ferramentas:** Angular, TypeScript, Git, GitHub e VS Code.
-- **Enterprise & Data:** SAP, Excel Avançado e ferramentas de produtividade (Microsoft 365).
-- **Soft Skills:** Organização de processos, suporte técnico e visão analítica.
+- **Frameworks & Tools:** Angular, TypeScript, Git, GitHub, and VS Code.
+- **Enterprise & Data:** SAP, Advanced Excel, and Microsoft 365 productivity tools.
+- **Soft Skills:** Process organization, technical support, and analytical thinking.
 
 ---
 
-### 🎓 Formação Acadêmica
+### 🎓 Education
 
-- **Superior cursando em Análise e Desenvolvimento de Sistemas** – Faculdade Vincit
-- **Técnico em Administração** – Senac
-- **Cursos Complementares:** Web Frontend (Udemy) e Certificações pela DIO.
+- **B.S. in Analysis and Systems Development** – Faculdade Vincit (In progress)
+- **Administrative Technician** – Senac
+- **Additional Courses:** Web Frontend (Udemy) and Certifications by DIO.
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalita-cristina-silva-dos-santos-909240100)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thallitacristinnaa75@gmail.com)
 
 ---
 
-> *"Unindo a experiência em processos com a paixão por tecnologia para criar soluções eficientes."*
+> *"Merging process experience with a passion for technology to build efficient digital solutions."*

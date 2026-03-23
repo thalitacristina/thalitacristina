@@ -26,7 +26,7 @@ I am a professional with a solid background in administrative and quality proces
 ### 📫 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalita-cristina-silva-dos-santos-909240100)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thallitacristinnaa75@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]thallitacristinnaa75@gmail.com
 
 ---
 
